@@ -1,1 +1,5 @@
-[]
+[
+  {"id":1,"title":"iPhone 13 UK Used","category":"Wears","type":"UK Used","state":"Kaduna","price":350000,"image":"https://images.unsplash.com/photo-1632661674596-df8be070a5c5?w=400","seller":"Admin Tobex","ownerPhone":"08163382655","verified":true,"desc":"Clean UK used iPhone 13, 128GB, Battery 95%","owner":"08163382655"},
+  {"id":2,"title":"Toyota Corolla 2010","category":"Cars","type":"Fairly Used","state":"Lagos","price":3200000,"image":"https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=400","seller":"Admin Tobex","ownerPhone":"08163382655","verified":true,"desc":"First body, AC chilling, Buy and drive","owner":"08163382655"},
+  {"id":3,"title":"3 Bedroom Flat For Rent","category":"Property","type":"New","state":"FCT","price":1200000,"image":"https://images.unsplash.com/photo-1560518883-ce09059eeffa?w=400","seller":"Admin Tobex","ownerPhone":"08163382655","verified":true,"desc":"3 bedroom flat at Wuse, Abuja, water running","owner":"08163382655"}
+][]
